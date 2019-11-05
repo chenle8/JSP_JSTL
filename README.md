@@ -24,3 +24,7 @@ JSTL（即JSP标准标签库）是一个JSP标签集合，它封装了JSP应用�
 4、XML标签
 
 5、JSTL函数
+
+更多请访问：
+www.mrddy.com/50.html
+www.mrddy.com/52.html
